@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="cbir/src"/>
+	<classpathentry kind="lib" path="cbir/dist/cbir.jar"/>
+	<classpathentry kind="output" path="cbir/build/classes"/>
+</classpath>
